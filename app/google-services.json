@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517071529548",
+    "project_id": "completehub-1e3ed",
+    "storage_bucket": "completehub-1e3ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517071529548:android:ef8a1ec73cb25ef788b6e9",
+        "android_client_info": {
+          "package_name": "com.example.completehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnys15kyQi7_8tuHypXK-jEs4z64jtxng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
